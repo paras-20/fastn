@@ -210,7 +210,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/Paras
+link: https://linkedin.com/in/ParasRathore
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
